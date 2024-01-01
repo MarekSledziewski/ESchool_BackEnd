@@ -1,0 +1,12 @@
+C:\Users\msled\source\repos\ESchool_BackEnd\Dotnet\ESchool\DataStore\obj\Debug\net7.0\DataStore.csproj.AssemblyReference.cache
+C:\Users\msled\source\repos\ESchool_BackEnd\Dotnet\ESchool\DataStore\obj\Debug\net7.0\DataStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msled\source\repos\ESchool_BackEnd\Dotnet\ESchool\DataStore\obj\Debug\net7.0\DataStore.AssemblyInfoInputs.cache
+C:\Users\msled\source\repos\ESchool_BackEnd\Dotnet\ESchool\DataStore\obj\Debug\net7.0\DataStore.AssemblyInfo.cs
+C:\Users\msled\source\repos\ESchool_BackEnd\Dotnet\ESchool\DataStore\obj\Debug\net7.0\DataStore.csproj.CoreCompileInputs.cache
+C:\Users\msled\source\repos\ESchool_BackEnd\Dotnet\ESchool\DataStore\bin\Debug\net7.0\DataStore.deps.json
+C:\Users\msled\source\repos\ESchool_BackEnd\Dotnet\ESchool\DataStore\bin\Debug\net7.0\DataStore.dll
+C:\Users\msled\source\repos\ESchool_BackEnd\Dotnet\ESchool\DataStore\bin\Debug\net7.0\DataStore.pdb
+C:\Users\msled\source\repos\ESchool_BackEnd\Dotnet\ESchool\DataStore\obj\Debug\net7.0\DataStore.dll
+C:\Users\msled\source\repos\ESchool_BackEnd\Dotnet\ESchool\DataStore\obj\Debug\net7.0\refint\DataStore.dll
+C:\Users\msled\source\repos\ESchool_BackEnd\Dotnet\ESchool\DataStore\obj\Debug\net7.0\DataStore.pdb
+C:\Users\msled\source\repos\ESchool_BackEnd\Dotnet\ESchool\DataStore\obj\Debug\net7.0\ref\DataStore.dll
